@@ -1,6 +1,0 @@
-Hello world this is Shivam a computer science engineer of 2026 passout batch.
-
-Hello I am shivam a devops engineer.
-
-
-I want to add this file . As i am editing this file in github.
